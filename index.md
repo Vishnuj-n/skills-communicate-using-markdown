@@ -7,8 +7,11 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 ``` python
-print("Hello World")
+
+print("x")
+print(- [] Learn new things)
 ```
+
 ``` javascript
 var myVar = "Hello, world!";
 ```
