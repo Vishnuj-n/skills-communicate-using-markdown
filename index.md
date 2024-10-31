@@ -8,10 +8,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 ``` python
 
-print("x")
-print(- [] Learn new things)
+print("Hello World")
 ```
-
+### Checklist
+- [ ] Learn new things
+- [x] Understand GitHub Actions
+- [ ] Complete the project
 ``` javascript
 var myVar = "Hello, world!";
 ```
